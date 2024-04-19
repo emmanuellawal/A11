@@ -49,13 +49,13 @@ header img {
 /* the styles for the navigation menu */
 #nav_menu ul {
 	list-style-type: none;
-	width: 100%;
 	margin: 100%;
 	padding: 100%;
 	position: relative;
 }
 #nav_menu ul li {
-	float: left;
+	float:right;
+	width: 100%;
 }
 #nav_menu ul li a {
     display: block;
