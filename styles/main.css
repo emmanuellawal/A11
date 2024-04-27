@@ -182,7 +182,7 @@ footer p {
 	color: white;
 	padding: 1em 0;
 }
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 747px){
 	header img{
 		float: none;
 	}
@@ -233,6 +233,11 @@ footer p {
 	}
 
 }
+/*@media only screen and (max-width: 747px){
+	
+
+}
+*/
 
 .slicknav_menu{
 	display:none;
