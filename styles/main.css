@@ -86,7 +86,7 @@ header img {
 	color: white;
 	background: #800000;
 	display: block;
-	width: 13.334%;
+	width: 100%;
 	padding-top: 1em;
 	padding-bottom: 1em;
 	/*float: none;*/
@@ -147,6 +147,8 @@ article h3 {
 article img {
 	float: right;
 	margin: .5em 0 1em 1em;
+	max-width: 40%;
+	min-width: 150px;
 	border: 1px solid black;
 }
 
