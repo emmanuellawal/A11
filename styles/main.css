@@ -209,7 +209,7 @@ footer p {
 	padding: 1em 0;
 }
 
-@media only screen and (max-width: 747px) {
+@media only screen and (max-width: 800px) {
 	section h1 {
 		font-size: 125%;
 	}
